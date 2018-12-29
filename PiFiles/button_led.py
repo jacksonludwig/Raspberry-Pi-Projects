@@ -11,3 +11,4 @@ while True:
         GPIO.output(18, False)
     else:
         GPIO.output(18, True)
+        print("pressed")
